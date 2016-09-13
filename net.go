@@ -22,7 +22,7 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/eclipse/paho.mqtt.golang/packets"
+	"github.com/alexshnup/mqtt/packets"
 	"golang.org/x/net/websocket"
 )
 

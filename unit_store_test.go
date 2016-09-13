@@ -19,7 +19,7 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"github.com/eclipse/paho.mqtt.golang/packets"
+	"github.com/alexshnup/mqtt/packets"
 )
 
 func Test_fullpath(t *testing.T) {

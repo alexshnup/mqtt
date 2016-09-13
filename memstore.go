@@ -17,7 +17,7 @@ package mqtt
 import (
 	"sync"
 
-	"github.com/eclipse/paho.mqtt.golang/packets"
+	"github.com/alexshnup/mqtt/packets"
 )
 
 // MemoryStore implements the store interface to provide a "persistence"
